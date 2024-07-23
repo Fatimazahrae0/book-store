@@ -1,4 +1,5 @@
 # Where things are
+theme               : Modernist
 source              : .
 destination         : ./_site
 collections_dir     : .
