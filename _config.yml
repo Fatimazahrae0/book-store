@@ -1,5 +1,5 @@
 # Where things are
-theme               : Modernist
+theme               :Slate
 source              : .
 destination         : ./_site
 collections_dir     : .
