@@ -1,16 +1,10 @@
 /*!
- * imagesLoaded PACKAGED v4.1.4
+ * 
  * JavaScript is all like "You images are done yet or what?"
- * MIT License
+ * 
  */
 
-/**
- * EvEmitter v1.1.0
- * Lil' event emitter
- * MIT License
- */
 
-/* jshint unused: true, undef: true, strict: true */
 
 ( function( global, factory ) {
   // universal module definition
@@ -292,7 +286,7 @@ var elementNodeTypes = {
 ImagesLoaded.prototype.addElementBackgroundImages = function( elem ) {
   var style = getComputedStyle( elem );
   if ( !style ) {
-    // Firefox returns null if in a hidden iframe https://bugzil.la/548397
+    
     return;
   }
   // get url inside url("...")
