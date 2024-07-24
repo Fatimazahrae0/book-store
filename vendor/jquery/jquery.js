@@ -1,3 +1,10 @@
+/*
+ * Copyright © 2024 Fatima Zahrae Ouadrassi. All rights reserved.
+ * This file is part of the project available at: https://github.com/Fatimazahrae0/fregg
+ * Unauthorized copying of this file, via any medium is strictly prohibited.
+ * Proprietary and confidential.
+ */
+
 /*!
  * jQuery JavaScript Library v3.3.1
  * https://jquery.com/e

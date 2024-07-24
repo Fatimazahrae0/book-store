@@ -1,9 +1,10 @@
-/*!
- * 
- * JavaScript is all like "You images are done yet or what?"
- * 
- */
 
+/*
+ * Copyright © 2024 Fatima Zahrae Ouadrassi. All rights reserved.
+ * This file is part of the project available at: https://github.com/Fatimazahrae0/fregg
+ * Unauthorized copying of this file, via any medium is strictly prohibited.
+ * Proprietary and confidential.
+ */
 
 
 ( function( global, factory ) {
